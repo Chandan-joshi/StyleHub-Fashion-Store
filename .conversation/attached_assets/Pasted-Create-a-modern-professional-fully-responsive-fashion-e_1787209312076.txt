@@ -1,0 +1,394 @@
+Create a modern, professional, fully responsive fashion e-commerce website called **StyleHub**.
+
+### 1. Website Concept
+
+Build an attractive online clothing store where customers can browse and shop for clothing based on category:
+
+* Men
+* Women
+* Girls
+* Boys
+* Kids
+
+The website should look like a real modern fashion brand, with a clean premium UI, attractive product cards, smooth animations, and easy navigation.
+
+### 2. Homepage
+
+Create a beautiful homepage containing:
+
+* Professional navigation bar
+* StyleHub logo
+* Search bar
+* Login / Sign Up button
+* Wishlist icon
+* Shopping cart icon
+* Category navigation
+* Large hero banner with fashion models
+* "Shop Now" CTA button
+* Featured categories
+* Trending products
+* New arrivals
+* Best sellers
+* Special offers / discounts
+* Customer reviews
+* Newsletter subscription
+* Professional footer
+
+Hero section headline:
+
+**"Style That Defines You"**
+
+Subtitle:
+
+**"Discover the latest fashion for everyone in the family."**
+
+Buttons:
+
+**Shop Men | Shop Women | Shop Kids**
+
+### 3. Category Sections
+
+Create separate shopping sections for:
+
+#### MEN
+
+Include:
+
+* T-Shirts
+* Shirts
+* Jeans
+* Trousers
+* Jackets
+* Hoodies
+* Formal Wear
+* Casual Wear
+* Shoes
+* Accessories
+
+#### WOMEN
+
+Include:
+
+* Tops
+* T-Shirts
+* Dresses
+* Jeans
+* Trousers
+* Sarees
+* Kurtis
+* Ethnic Wear
+* Jackets
+* Handbags
+* Shoes
+* Accessories
+
+#### GIRLS
+
+Include:
+
+* Dresses
+* Tops
+* T-Shirts
+* Jeans
+* Skirts
+* Ethnic Wear
+* Party Wear
+* Casual Wear
+* Shoes
+* Accessories
+
+#### BOYS
+
+Include:
+
+* T-Shirts
+* Shirts
+* Jeans
+* Shorts
+* Trousers
+* Hoodies
+* Jackets
+* Ethnic Wear
+* Party Wear
+* Shoes
+* Accessories
+
+#### KIDS
+
+Create a general kids section containing:
+
+* Baby Clothing
+* Toddler Clothing
+* Boys
+* Girls
+* School Wear
+* Party Wear
+* Casual Wear
+* Sleepwear
+* Shoes
+* Accessories
+
+### 4. Product Cards
+
+Every product card should display:
+
+* High-quality product image
+* Product name
+* Category
+* Rating
+* Original price
+* Discounted price
+* Discount percentage
+* Wishlist heart button
+* "Add to Cart" button
+* "Buy Now" button
+
+When the user clicks a product, open a detailed product page.
+
+### 5. Product Details Page
+
+Include:
+
+* Large product image gallery
+* Product name
+* Price
+* Discount
+* Rating and reviews
+* Available colors
+* Available sizes
+* Size guide
+* Quantity selector
+* Add to Cart
+* Buy Now
+* Wishlist
+* Product description
+* Material information
+* Delivery information
+* Return policy
+* Customer reviews
+* Related products
+
+### 6. Search and Filtering
+
+Create a powerful search system.
+
+Users should be able to search products by name.
+
+Add filters for:
+
+* Category
+* Gender
+* Age group
+* Size
+* Color
+* Price range
+* Brand
+* Rating
+* Discount
+* New arrivals
+
+Add sorting options:
+
+* Recommended
+* Newest
+* Price: Low to High
+* Price: High to Low
+* Highest Rated
+* Biggest Discount
+
+### 7. Shopping Cart
+
+Create a fully functional cart.
+
+Show:
+
+* Product image
+* Product name
+* Size
+* Color
+* Quantity
+* Price
+* Remove button
+* Wishlist option
+* Subtotal
+* Discount
+* Delivery charge
+* Total amount
+
+Include a prominent **"Proceed to Checkout"** button.
+
+### 8. Checkout
+
+Create a clean checkout page containing:
+
+* Customer name
+* Mobile number
+* Email
+* Address
+* City
+* State
+* PIN code
+* Delivery instructions
+* Order summary
+* Coupon code
+* Payment method
+
+Payment options:
+
+* Cash on Delivery
+* UPI
+* Credit/Debit Card
+* Net Banking
+
+Create a professional order confirmation page after checkout.
+
+### 9. User Account
+
+Create a user dashboard containing:
+
+* Profile
+* My Orders
+* Order Tracking
+* Wishlist
+* Saved Addresses
+* Payment Methods
+* Recently Viewed
+* Logout
+
+### 10. Admin Dashboard
+
+Create an admin dashboard where an administrator can:
+
+* Add products
+* Edit products
+* Delete products
+* Upload product images
+* Manage categories
+* Manage inventory
+* Manage orders
+* Update order status
+* Manage customers
+* View sales
+* View revenue
+* View popular products
+
+Dashboard statistics should include:
+
+* Total Sales
+* Total Orders
+* Total Customers
+* Products
+* Revenue
+* Low Stock Products
+
+### 11. Design
+
+Use a modern fashion e-commerce design.
+
+Style:
+
+* Premium
+* Minimal
+* Clean
+* Professional
+* Mobile responsive
+* Smooth animations
+* Rounded cards
+* High-quality fashion imagery
+* Good spacing
+* Modern typography
+* Attractive hover effects
+
+Use a mostly **white/light background** with elegant dark text and one sophisticated accent color.
+
+The website should feel similar in quality to a professional fashion marketplace rather than a basic college project.
+
+### 12. Responsive Design
+
+Make the entire website responsive for:
+
+* Desktop
+* Laptop
+* Tablet
+* Mobile
+
+On mobile, use a hamburger menu and mobile-friendly product grids.
+
+### 13. Important Functionality
+
+Make the website functional rather than just a static UI.
+
+Implement:
+
+* Product search
+* Category navigation
+* Product filtering
+* Product sorting
+* Add to cart
+* Remove from cart
+* Quantity update
+* Wishlist
+* Product details
+* Login/signup UI
+* Checkout
+* Order creation
+* Order tracking
+* Admin product management
+
+Use realistic sample products and product images so the website looks complete immediately.
+
+### 14. Navigation
+
+The main navigation should contain:
+
+**Home | Men | Women | Girls | Boys | Kids | New Arrivals | Offers**
+
+On the right:
+
+**Search | Wishlist | Account | Cart**
+
+### 15. Extra Features
+
+Add:
+
+* "Flash Sale" section
+* Discount badges
+* "New" badges
+* "Trending" products
+* Recently viewed products
+* Recommended products
+* Coupon system
+* Newsletter
+* Free shipping banner
+* Return policy section
+* Customer support section
+
+Add a top announcement bar:
+
+**"FREE SHIPPING ON ORDERS ABOVE ₹999 | EASY 7-DAY RETURNS"**
+
+### 16. Technical Requirements
+
+Use a clean, scalable component-based architecture.
+
+Make reusable components for:
+
+* Navbar
+* Footer
+* Product Card
+* Product Grid
+* Category Card
+* Filter Sidebar
+* Cart
+* Buttons
+* Modals
+* Forms
+* Product Details
+
+Use realistic Indian currency **₹ (INR)** for product prices.
+
+Populate the website with at least **30–50 realistic sample products** across Men, Women, Girls, Boys, and Kids so every category looks populated.
+
+Make sure there are no broken links, empty pages, console errors, or placeholder sections.
+
+The final result should look like a **real, production-quality fashion e-commerce website** that can be demonstrated as a complete project.

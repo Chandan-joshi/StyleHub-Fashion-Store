@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "StyleHub Fashion Store"
+description = "A polished fashion marketplace for men, women, girls, boys, and kids with product discovery, wishlist, cart, checkout, and account experiences."
+version = "1.0.0"
+id = "artifacts/stylehub"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 25461
+
+[services.development]
+run = "pnpm --filter @workspace/stylehub run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/stylehub", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/stylehub/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "25461"
+BASE_PATH = "/"
